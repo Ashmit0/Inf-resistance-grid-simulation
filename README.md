@@ -10,4 +10,5 @@ Procedure:
 3. We finally analyse the generated data.
 
 acknowledgements:
+
 [1.] https://www.mbeckler.org/resistor_grid/; for initinal netlist code motivation.
