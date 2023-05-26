@@ -1,6 +1,7 @@
 # Inf-resistance-grid-simulation
 
 Problem: 
+
 We wish to analyse an infinite network grid of resistances and simulate the equivalent resistance between the two specific points. 
 
 Procedure: 
